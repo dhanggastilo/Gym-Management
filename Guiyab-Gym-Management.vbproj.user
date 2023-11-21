@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Attendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardCashier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardEncoder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DashboardTrainer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
